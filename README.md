@@ -17,7 +17,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para usar MailCarrier_BOF, siga estas etapas:
 
 ```
-python exploit.py
+python2.7 exploit.py
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
